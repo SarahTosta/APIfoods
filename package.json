@@ -1,0 +1,23 @@
+{
+  "name": "apifoods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahTosta/APIfoods.git"
+  },
+  "author": "Sarah Tosta de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahTosta/APIfoods/issues"
+  },
+  "homepage": "https://github.com/SarahTosta/APIfoods#readme",
+  "dependencies": {
+    "modules": "^0.4.0",
+    "node": "^16.10.0"
+  }
+}
