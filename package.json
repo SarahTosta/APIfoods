@@ -1,23 +1,28 @@
 {
-  "name": "apifoods",
+  "name": "APIfoods",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "modules": "^0.4.0",
+    "next": "^11.1.2",
+    "node": "^16.10.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SarahTosta/APIfoods.git"
   },
-  "author": "Sarah Tosta de Souza",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SarahTosta/APIfoods/issues"
   },
-  "homepage": "https://github.com/SarahTosta/APIfoods#readme",
-  "dependencies": {
-    "modules": "^0.4.0",
-    "node": "^16.10.0"
-  }
+  "homepage": "https://github.com/SarahTosta/APIfoods#readme"
 }
