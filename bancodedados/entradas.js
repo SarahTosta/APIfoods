@@ -52,5 +52,8 @@ var  entradas = [
     nome: "ROLINHO DE VERÃO",
     ingredientes: ["tomate", "rabanete", "pepino", "cebola", "cenoura", "abobrinha", "alface", "molho especial separado com canela" ],
     lactose: false,
-    gluten: false
+    gluten: false,
+    vegano: true,
+    vegetariano: true
 }]
+module.exports = entradas

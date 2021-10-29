@@ -56,3 +56,4 @@ var  principais = [
         vegano: false,
         vegetariano: false
     }]
+    module.exports = principais

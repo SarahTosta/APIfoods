@@ -56,3 +56,4 @@ var  sobremesas = [
         vegano: false,
         vegetariano: true
     }]
+    module.exports = sobremesas
